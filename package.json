@@ -1,0 +1,12 @@
+{
+  "name": "chat-v2",
+  "version": "2.0.0",
+  "description": "Улучшенный сайт для общения",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
